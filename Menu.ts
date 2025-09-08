@@ -25,7 +25,7 @@ function main() {
         console.log("Entre com a opção desejada: ");
         opcao = readlinesync.questionInt("");
 
-        if (opcao == 9) {
+        if (opcao == 6) {
             console.log("\nDoce Encanto - Um universo de doces!");
             sobre();
             process.exit(0);
